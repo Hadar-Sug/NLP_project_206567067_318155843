@@ -47,8 +47,8 @@ def main():
         return metric.compute(predictions=predictions, references=labels)
     
     # Load model (use distilgpt2 configuration)
-    model = GPT2ForSequenceClassification.from_pretrained('./models3/checkpoint-26842')
-    # model = GPT2ForSequenceClassification.from_pretrained('distilgpt2', num_labels=2)
+    # model = GPT2ForSequenceClassification.from_pretrained('./models3/checkpoint-26842')
+    model = GPT2ForSequenceClassification.from_pretrained('distilgpt2', num_labels=2)
     model.config.pad_token_id = tokenizer.eos_token_id  # Set pad token ID to eos token ID
 
     # Move model to GPU

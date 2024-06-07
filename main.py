@@ -5,9 +5,7 @@ import torch
 import logging
 from sklearn.metrics import accuracy_score
 import numpy as np
-from earlyStopping import EarlyStoppingCallback
 from trackScores import TrackAccuracyCallback
-from savePredictions import SavePredictionsCallback
 
 def main():
     

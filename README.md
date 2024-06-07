@@ -33,12 +33,12 @@ This project aims to fine-tune DistilGPT-2 for the task of predicting decision m
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/NLP_project_206567067_318155843.git
+git clone https://github.com/Hadar-Sug/NLP_project_206567067_318155843.git
 cd NLP_project_206567067_318155843
 pip install -r requirements.txt
 ```
 
 ## Acknowledgements
-We would like to thank Eilam for their support and Technion for providing the resources for this project.
+We would like to thank Eilam Shapira for his support and  the Technion for providing the resources for this project.
 
 

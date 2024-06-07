@@ -33,7 +33,7 @@ To get started, clone the repository and install the necessary dependencies:
 git clone https://github.com/yourusername/NLP_project_206567067_318155843.git
 cd NLP_project_206567067_318155843
 pip install -r requirements.txt
-
+```
 
 ##Acknowledgements
 We would like to thank Eilam for their support and Technion for providing the resources for this project.

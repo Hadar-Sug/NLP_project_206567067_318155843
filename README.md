@@ -5,7 +5,9 @@ Refining decision prediction in persuasion games using a pre-trained transformer
 
 # Fine-Tuning DistilGPT-2 for Decision Making Prediction
 
-![Project Banner](new_size_banner.png)
+<p align="center">
+  <img src="new_size_banner.png" alt="Project Banner">
+</p>
 
 
 ## Table of Contents

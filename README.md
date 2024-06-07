@@ -5,19 +5,13 @@ Refining decision prediction in persuasion games using a pre-trained transformer
 
 # Fine-Tuning DistilGPT-2 for Decision Making Prediction
 
-![Project Banner](path/to/your/banner/image)
+![Project Banner](banner.webp)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Experiments](#experiments)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -39,3 +33,9 @@ To get started, clone the repository and install the necessary dependencies:
 git clone https://github.com/yourusername/NLP_project_206567067_318155843.git
 cd NLP_project_206567067_318155843
 pip install -r requirements.txt
+
+
+##Acknowledgements
+We would like to thank Eilam for their support and Technion for providing the resources for this project.
+
+

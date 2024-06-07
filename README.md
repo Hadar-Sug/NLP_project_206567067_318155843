@@ -1,9 +1,7 @@
-# NLP_project_206567067_318155843
-NLP - 097215 - Final Project
-Refining decision prediction in persuasion games using a pre-trained transformer, namely Distilgpt2.
+# NLP - 097215 - Final Project
+# Refining decision prediction in persuasion games using a pre-trained transformer, namely Distilgpt2.
 
 
-# Fine-Tuning DistilGPT-2 for Decision Making Prediction
 
 <p align="center">
   <img src="new_size_banner.png" alt="Project Banner">

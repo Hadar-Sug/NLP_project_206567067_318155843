@@ -35,7 +35,7 @@ cd NLP_project_206567067_318155843
 pip install -r requirements.txt
 ```
 
-##Acknowledgements
+## Acknowledgements
 We would like to thank Eilam for their support and Technion for providing the resources for this project.
 
 

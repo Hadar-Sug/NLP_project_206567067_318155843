@@ -68,6 +68,7 @@ def main():
         logging_strategy='epoch',  # Log only after each epoch
         metric_for_best_model="accuracy",  # Specify the metric to monitor
         greater_is_better=True,  # Specify if higher metric value is better
+        load_best_model_at_end=True
     )
 
     # Initialize trainer
